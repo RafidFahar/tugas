@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Tugas</string>
+    <string name="pendaftaran">PENDAFTARAN</string>
+    <string name="nd">Nama Depan</string>
+    <string name="nb">Nama Belakang</string>
+    <string name="tlhr">Tempat Lahir</string>
+    <string name="tgllhr">Tanggal Lahir</string>
+    <string name="alamat">Alamat</string>
+    <string name="jk">Jenis Kelamin</string>
+    <string name="jkl">Laki-Laki</string>
+    <string name="jkp">Perempuan</string>
+    <string name="agama">Agama</string>
+    <string name="ai">Islam</string>
+    <string name="ak">Katolik</string>
+    <string name="ab">Buddha</string>
+    <string name="akp">Aliran Kepercayaan</string>
+    <string name="akristen">Kristen</string>
+    <string name="ah">Hindu</string>
+    <string name="akong">Konghucu</string>
+    <string name="telepon">Telepon</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="repass">Masukkan Password Kembali</string>
+    <string name="kembali">Kembali</string>
+    <string name="daftar">Daftar</string>
+    <string name="v1">Nama Depan Harus Diisi</string>
+    <string name="v2">Nama Belakang Harus Diisi</string>
+    <string name="v3">Tempat Lahir Harus Diisi</string>
+    <string name="v4">Tanggal Lahir Harus Diisi</string>
+    <string name="v5">Alamat Harus Diisi</string>
+    <string name="v6">Telepon Harus Diisi</string>
+    <string name="v7">Email Harus Diisi</string>
+    <string name="v8">Password Harus Diisi</string>
+    <string name="v9">Password Harus Diisi</string>
+    <string name="v10">Jenis Kelamin Harus Diisi</string>
+    <string name="v11">Agama Harus Diisi</string>
+
+
+</resources>
